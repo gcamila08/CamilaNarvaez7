@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Camila</h1>
 
 <h3 align="center">
-  Estudiante de Desarrollo de Software 💻 | Ecuador 🇪🇨
+  Estudiante de Ingeniería en Sistemas de la Información 💻 | Ecuador 🇪🇨
 </h3>
 
 ---
@@ -9,18 +9,15 @@
 ### ✨ Sobre mí
 
 - 🎓 Actualmente estoy aprendiendo programación.
-- 💻 Estoy aprendiendo Java, HTML, CSS y JavaScript.
+- 💻 Estoy aprendiendo Java, HTML.
 - 🌱 Me interesa el desarrollo web y la tecnología.
 - 🚀 Me gusta crear proyectos y aprender cosas nuevas.
-- 💬 ¡Puedes preguntarme sobre mis proyectos!
 
 ### 🛠️ Tecnologías que estoy aprendiendo
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### 📌 Mis objetivos
