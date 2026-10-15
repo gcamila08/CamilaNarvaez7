@@ -13,6 +13,9 @@
 - 🌱 I'm interested in web development and technology.
 - 🚀 I like creating projects and learning new things.
 
+### ⚙️ Development Tools
+!NetBeans !Visual Studio Code !GitHub
+
 ### 🛠️ Technologies I am learning
 
 <p>
