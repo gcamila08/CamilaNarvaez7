@@ -30,10 +30,11 @@
 - Crear proyectos interesantes.
 
 ---
-
+<p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThibnd5cmx6YjNvbno3bW1xMnBlcmg3bmYyNXRmYjg4emN5ZTN0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif"
      width="300"
      alt="Programando en mi computadora">
+     </p>
      
 <p align="center">
   ✨ Gracias por visitar mi perfil ✨
