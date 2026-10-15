@@ -1,30 +1,32 @@
-<h1 align="center">¡Hola! 👋 Soy Camila</h1>
+<h1 align="center">¡Hello! 👋 I am Camila</h1>
 
 <h3 align="center">
-  Estudiante de Ingeniería en Sistemas de la Información 💻 | Ecuador 🇪🇨
+  Information Systems Engineering Student 💻 | Ecuador 🇪🇨
 </h3>
 
 ---
 
-### ✨ Sobre mí
+### ✨ About me
 
-- 🎓 Actualmente estoy aprendiendo programación.
-- 💻 Estoy aprendiendo Java, HTML.
-- 🌱 Me interesa el desarrollo web y la tecnología.
-- 🚀 Me gusta crear proyectos y aprender cosas nuevas.
+- 🎓 Actually i'm learning programming.
+- 💻 I'm learning Java, HTML. 
+- 🌱 I'm interested in web development and technology.
+- 🚀 I like creating projects and learning new things.
 
-### 🛠️ Tecnologías que estoy aprendiendo
+### 🛠️ Technologies I am learning
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-### 📌 Mis objetivos
+### 📌My goals
 
-- Aprender nuevos lenguajes de programación.
-- Mejorar mis habilidades como desarrolladora.
-- Crear proyectos interesantes.
+- To learn new programming languages.
+
+- To improve my skills as a developer.
+
+- To create interesting projects.
 
 ---
 <p align="center">
@@ -34,5 +36,5 @@
      </p>
      
 <p align="center">
-  ✨ Gracias por visitar mi perfil ✨
+  ✨ Thanks for watch my profile ✨
 </p>
