@@ -1,6 +1,6 @@
  <div align="center">
 
-# 🎀 𝒞𝒶𝓂𝒾𝓁𝒶'𝓈 𝒸𝑜𝓇𝓃𝑒𝓇 🌷
+# 🎀 WELCOME I AM CAMILA🌷
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=22&pause=1000&color=E8A0BF&center=true&vCenter=true&width=435&lines=Welcome+to+my+little+world+%E2%99%A1;Future+Software+Developer+%F0%9F%92%BB;Learning+something+new+every+day+%E2%9C%A8" alt="Typing SVG" />
 
