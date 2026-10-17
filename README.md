@@ -44,7 +44,6 @@
 - ♡ Learn new programming languages.
 - ♡ Improve my coding and problem-solving skills.
 - ♡ Build beautiful and useful projects.
-- ♡ Become a confident software developer.
 - ♡ Never stop learning! 🌱
 
 ### 💻 ୨୧ Coding mood
@@ -63,7 +62,7 @@
 
 ### 💌 Thanks for visiting my little corner of GitHub!
 
-🌷 *Made with love, coffee & a little bit of pink* 🎀
+🌷 *Made with love a little bit of pink* 🎀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=100&section=footer" width="100%" alt="Pink footer"/>
 
