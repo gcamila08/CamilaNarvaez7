@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="[[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThibnd5cmx6YjNvbno3bW1xMnBlcmg3bmYyNXRmYjg4emN5ZTN0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" width="300" alt="Coding time](https://i.pinimg.com/736x/5e/fd/7b/5efd7b39b057e0d1c6c51c361337c42a.jpg)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dlbDhyYWRjY3RhcjYxd3ppd2J0cDBhNzBtMm1hbTVrYW1jbHRzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgwVpiIPbrxJFM5T3m/giphy.gif)"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThibnd5cmx6YjNvbno3bW1xMnBlcmg3bmYyNXRmYjg4emN5ZTN0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" width="300" alt="Coding time](https://i.pinimg.com/736x/5e/fd/7b/5efd7b39b057e0d1c6c51c361337c42a.jpg)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dlbDhyYWRjY3RhcjYxd3ppd2J0cDBhNzBtMm1hbTVrYW1jbHRzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgwVpiIPbrxJFM5T3m/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHNqNnZ2N3JsazgxbHBsemp2NzNkeTF5NGc1YXg1M3lhaDB4czdqOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RgwVpiIPbrxJFM5T3m/giphy.gif)"/>
 
 *romanticizing my life, one line of code at a time* 🎧☕🌸
 
