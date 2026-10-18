@@ -61,6 +61,6 @@
 
 ### 💌 Thanks for visiting my little corner of GitHub!
 
-🌷 *Made with love a little bit of pink* 🎀
+🌷 *Made with love and little bit of pink* 🎀
 
 </div>
