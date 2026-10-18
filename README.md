@@ -5,7 +5,7 @@
 
 💗 **Information Systems Engineering Student** 💗
 
-📍 Ecuador 🇪🇨 · 💻 Aspiring Developer
+📍 Ecuador 🇪🇨 💻
 
 [![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=E8A0BF)](https://github.com/)
 [![Java](https://img.shields.io/badge/Java-F8D7E8?style=flat-square&logo=openjdk&logoColor=8B5E83)](https://www.java.com/)
