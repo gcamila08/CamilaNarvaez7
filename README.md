@@ -52,7 +52,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHNqNnZ2N3JsazgxbHBsemp2NzNkeTF5NGc1YXg1M3lhaDB4czdqOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RgwVpiIPbrxJFM5T3m/giphy.gif"/>
 
-* one line of code at a time* 🎧☕🌸
+*one line of code at a time* 🎧☕🌸
 
 </div>
 
