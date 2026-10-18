@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThibnd5cmx6YjNvbno3bW1xMnBlcmg3bmYyNXRmYjg4emN5ZTN0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" width="300" alt="Coding time"/>
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThibnd5cmx6YjNvbno3bW1xMnBlcmg3bmYyNXRmYjg4emN5ZTN0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" width="300" alt="Coding time](https://i.pinimg.com/736x/5e/fd/7b/5efd7b39b057e0d1c6c51c361337c42a.jpg)"/>
 
 *romanticizing my life, one line of code at a time* 🎧☕🌸
 
@@ -63,7 +63,5 @@
 ### 💌 Thanks for visiting my little corner of GitHub!
 
 🌷 *Made with love a little bit of pink* 🎀
-
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=100&section=footer" width="100%" alt="Pink footer](https://i.pinimg.com/736x/5e/fd/7b/5efd7b39b057e0d1c6c51c361337c42a.jpg)"/>
 
 </div>
